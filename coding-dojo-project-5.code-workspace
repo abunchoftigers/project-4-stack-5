@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+    {
+      "path": "../stack-5",
+      "exclude": [
+        "data"
+      ]
+    }
+  ],
+  "settings": {}
+}
